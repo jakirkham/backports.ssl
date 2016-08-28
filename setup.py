@@ -28,7 +28,6 @@ setup(
     author_email='alek.storm@gmail.com',
     url='https://github.com/alekstorm/backports.ssl',
     packages=['backports', 'backports.ssl'],
-    package_data={'': ['CONTRIBUTORS.rst', 'LICENSE', 'NOTICES.rst', 'README.rst']},
     include_package_data=True,
     license='MIT',
     classifiers=[

@@ -1,1 +1,7 @@
+# License files
 include LICENSE
+include CONTRIBUTORS.rst
+include NOTICES.rst
+
+# Docs
+include README.rst
